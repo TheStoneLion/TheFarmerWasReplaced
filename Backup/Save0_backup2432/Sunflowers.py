@@ -1,6 +1,5 @@
 while True:
-    listPedals = []
-    listCounter = 0
+    listPedals = [[], [], [], [], [], [], [], [], []]
     for i in range(get_world_size()):
         for j in range(get_world_size()):
             if get_ground_type() == Grounds.Turf:
@@ -9,8 +8,7 @@ while True:
             while get_water() < 0.5:
                 use_item(Items.Water_Tank)
             plant(Entities.Sunflower)
-            tupleSunflower = measure(), get_pos_x(), get_pos_y()
-            if listcounter == 0
+            tupleSunflower = get_pos_x(), get_pos_y()
             listPedals[15 - measure()].append(tupleSunflower)
             move(North)
         move(East)

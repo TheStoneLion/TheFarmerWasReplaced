@@ -1,0 +1,20 @@
+Warning: Tried to do a swap over the farm boundaries. That is not allowed.
+In: 
+swap(East)
+    ^^    
+--------------------------------------------------------------------
+Warning: Tried to do a swap over the farm boundaries. That is not allowed.
+In: 
+swap(North)
+    ^^     
+--------------------------------------------------------------------
+Warning: Tried to do a swap over the farm boundaries. That is not allowed.
+In: 
+swap(North)
+    ^^     
+--------------------------------------------------------------------
+Warning: Tried to do a swap over the farm boundaries. That is not allowed.
+In: 
+swap(East)
+    ^^    
+--------------------------------------------------------------------
